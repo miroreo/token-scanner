@@ -1,0 +1,2 @@
+run="go build && ./main"
+onBoot="./scripts/initgit.sh"
